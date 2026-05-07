@@ -1,0 +1,19 @@
+{
+  "MTN": [
+    { "size_mb": 500, "price": 150 },
+    { "size_mb": 1000, "price": 215 },
+    { "size_mb": 2000, "price": 420 }
+  ],
+  "Airtel": [
+    { "size_mb": 500, "price": 160 },
+    { "size_mb": 1000, "price": 230 }
+  ],
+  "Glo": [
+    { "size_mb": 500, "price": 140 },
+    { "size_mb": 1000, "price": 210 }
+  ],
+  "9mobile": [
+    { "size_mb": 500, "price": 150 },
+    { "size_mb": 1000, "price": 220 }
+  ]
+}
