@@ -1,5 +1,4 @@
 # Awuf
-
 A free-tier, Next.js PWA for Nigerian VAS data gifting with wallet funding and Paystack payments.
 
 ## Stack
